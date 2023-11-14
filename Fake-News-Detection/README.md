@@ -10,8 +10,8 @@ This guide will help you set up and run the Fake News Detection project on your 
 
 Before beginning, ensure you have the following installed:
 
-1. **Python 3.6:**
-   - Ensure Python 3.6 is installed on your machine. You can download it from [Python's official website](https://www.python.org/downloads/).
+1. **Python 3.9:**
+   - Ensure Python 3.9 is installed on your machine. You can download it from [Python's official website](https://www.python.org/downloads/).
    - Optionally, set up PATH variables to run Python programs directly. Follow the guide [here](https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/).
 
 2. **Anaconda (Alternative to Python 3.6):**
